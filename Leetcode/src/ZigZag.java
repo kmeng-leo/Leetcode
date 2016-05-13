@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Solution {
+public class ZigZag {
     public String convert(String s, int nRows) {
         int len = s.length();
         if (len == 0 || nRows <= 1) return s;
