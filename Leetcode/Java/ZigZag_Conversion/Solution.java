@@ -1,7 +1,7 @@
-package ZigZag;
+package ZigZag_Conversion;
 import java.util.Arrays;
 
-public class ZigZag {
+public class Solution {
     public String convert(String s, int nRows) {
         int len = s.length();
         if (len == 0 || nRows <= 1) return s;
