@@ -1,3 +1,4 @@
+package ZigZag;
 import java.util.Arrays;
 
 public class ZigZag {
