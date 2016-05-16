@@ -1,3 +1,4 @@
+package Nim_Game;
 
 public class Nim_Game {
 	public boolean canWinNim(int n) {
